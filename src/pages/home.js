@@ -21,7 +21,6 @@ const Home = () => {
         <div className='search'>
             <Searchbar
               setcurrcity={setcurrcity}
-              
             ></Searchbar>
         </div>
         <div className='display-main center-content'>
@@ -34,7 +33,7 @@ const Home = () => {
             // lon={lon}
             ></Displaymain>
         </div>
-        <div className='forecast center-content'>
+        <div className='forecast'>
             <Forecast
             tempunit={tempunit}
             currcity={currcity}

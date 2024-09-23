@@ -40,7 +40,7 @@
         /* border: 2px solid black; */
         border-radius: 50px;
         display: grid;
-        grid-template-rows: 15% 1fr;
+        grid-template-rows: 10% 1fr;
         justify-items: center;
         align-items: center;
         background-color: rgba(255, 255, 255, 0.4);

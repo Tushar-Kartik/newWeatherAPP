@@ -10,7 +10,11 @@
     align-items: center;
     justify-content: center;
 }
-
+.forecast{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .center-content{
     display: flex;
     align-items: center;
@@ -27,6 +31,11 @@
         width: 95vw;
         height: 95vh;
         display: grid;
-        grid-template-rows: 0.5fr 1fr 3fr 10px;
+        grid-template-rows: 0.3fr 0.8fr 3fr 10px;
+    }
+    .forecast{
+        display: flex;
+        align-items: start;
+        justify-content: center;
     }
 }

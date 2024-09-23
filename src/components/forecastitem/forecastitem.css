@@ -19,7 +19,7 @@
 .dayname{
     font-size: 1rem;
     font-weight: 450;
-    font-family: "Kode Mono", monospace;;
+    font-family: monospace;;
 }
 .temp{
     display: flex;
@@ -58,10 +58,14 @@
         align-items: center;
     }
     .large{
-        font-size: large;
+        font-size: 15px;
         font-weight: 500;
     }
     .small{
         font-size: xx-small;
+    }
+    .dayname{
+        font-size: 0.8rem;
+       
     }
 }
