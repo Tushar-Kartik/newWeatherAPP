@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newWeatherAPP/static/css/main.517dd51c.css",
+    "main.js": "/newWeatherAPP/static/js/main.47f2a86b.js",
+    "static/js/453.e1f0a9af.chunk.js": "/newWeatherAPP/static/js/453.e1f0a9af.chunk.js",
+    "static/media/bg1.jpg": "/newWeatherAPP/static/media/bg1.f0e3c63fb20967356f32.jpg",
+    "index.html": "/newWeatherAPP/index.html",
+    "main.517dd51c.css.map": "/newWeatherAPP/static/css/main.517dd51c.css.map",
+    "main.47f2a86b.js.map": "/newWeatherAPP/static/js/main.47f2a86b.js.map",
+    "453.e1f0a9af.chunk.js.map": "/newWeatherAPP/static/js/453.e1f0a9af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.517dd51c.css",
+    "static/js/main.47f2a86b.js"
+  ]
+}
